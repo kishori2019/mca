@@ -1,3 +1,4 @@
+//To print number according to the character entered 
 #include<stdio.h>
 #include<conio.h>
 int main()
